@@ -13,4 +13,4 @@ Apache airflow
 ### DB
   Postgresql, MYSQL, Mongo DB, Spark SQL 
 ## Fron-End
-Typescript React
+Typescript React, 
