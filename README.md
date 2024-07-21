@@ -8,7 +8,8 @@ Created Business specific Chat bots
   - https://github.com/kotrakesh/alexa-mann
 
 ## Backend
-Experience in backend pythopm, Fast API, RAG, Langchain, Llama LLM
+Experience in backend python,Spark, Pysark Fast API, RAG, Langchain, Llama LLM
+Apache airflow
 ### DB
   Postgresql, MYSQL, Mongo DB, Spark SQL 
 ## Fron-End
