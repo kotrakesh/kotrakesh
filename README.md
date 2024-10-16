@@ -1,7 +1,7 @@
 # Profile
 
 Developed Business specific Chat bots(Repo private) 
-ith RAG architecture, 
+with RAG architecture using Langchain
 - https://t.me/SKYReaseachBot
 -https://t.me/AyurwiseBot
 
