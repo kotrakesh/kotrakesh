@@ -9,8 +9,8 @@ with RAG architecture using Langchain
   - https://github.com/kotrakesh/alexa-mann
 
 ## Backend
-Experience in backend Python, Spark, PySpark Fast API, RAG, Langchain, Llama LLM
-Apache airflow
+Experience in backend Python,  Fast API, RAG, Langchain,Agentic AI Llama LLM
+Apache airflow, Spark, PySpark
 ### DB
   Postgresql, MYSQL, Mongo DB, Spark SQL 
 ## Fron-End
