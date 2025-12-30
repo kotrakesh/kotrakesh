@@ -10,7 +10,7 @@ with RAG architecture using Langchain
 
 ## Backend
 Experience in backend Python,  Fast API, RAG, Langchain,Agentic AI Llama LLM
-Apache airflow, Spark, PySpark
+Apache airflow, Langchain, LangGraph, Crew AI, Pytorch
 ### DB
   Postgresql, MYSQL, Mongo DB, Spark SQL 
 ## Fron-End
